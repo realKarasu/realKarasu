@@ -1,12 +1,12 @@
 <h1 align="center">Kara</h1>
 <p align="center">
-  Développeur — TypeScript, C#, Java, LUA, Docker.<br/>
-  Fondateur de ganyu.fr & karamon.fr
+  Développeur — TypeScript, Svelte, C#, Java, LUA, Docker.<br/>
+  Fondateur de <a href="https://ganyu.fr">ganyu.fr</a> & <a href="https://karamon.fr">karamon.fr</a>
 </p>
 
 🛠️ Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,cs,java,lua,docker" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=ts,svelte,cs,java,lua,docker" alt="Skills"/>
 </p>
 
 📊 Stats
