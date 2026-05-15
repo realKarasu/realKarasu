@@ -11,11 +11,18 @@
 
 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=realKarasu&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKarasu&layout=compact&theme=tokyonight&hide_border=true" alt="Top langages"/>
+  <a href="https://github.com/realKarasu">
+    <img src="https://img.shields.io/github/followers/realKarasu?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  </a>
+  <a href="https://github.com/realKarasu?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-2-blue?style=for-the-badge&logo=github" alt="Repos"/>
+  </a>
+  <a href="https://github.com/realKarasu/Launcher-Karamon">
+    <img src="https://img.shields.io/github/stars/realKarasu/Launcher-Karamon?style=for-the-badge&color=yellow" alt="Stars Launcher-Karamon"/>
+  </a>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=realKarasu&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img src="https://komarev.com/ghpvc/?username=realKarasu&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
 <p align="center">
