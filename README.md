@@ -1,31 +1,44 @@
-<h1 align="center">Kara</h1>
-<p align="center">
-  Développeur — TypeScript, Svelte, C#, Java, LUA, Docker.<br/>
-  Fondateur de <a href="https://ganyu.fr">ganyu.fr</a> & <a href="https://karamon.fr">karamon.fr</a>
+# Kara
+ 
+Développeur full-stack. Fondateur de [ganyu.fr](https://ganyu.fr) et [karamon.fr](https://karamon.fr).
+ 
+Je conçois et maintiens des applications web et desktop, du frontend à l'infrastructure.
+ 
+---
+ 
+## Technologies
+ 
+**Langages**  
+TypeScript · C# · Java · LUA
+ 
+**Frameworks & outils**  
+Svelte · .NET · Docker
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,svelte,cs,dotnet,java,lua,docker&perline=7" alt="Stack"/>
 </p>
-
-🛠️ Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,svelte,cs,java,lua,docker" alt="Skills"/>
+---
+ 
+## Projets
+ 
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| **[Launcher-Karamon](https://github.com/realKarasu/Launcher-Karamon)** | Launcher officiel du projet Karamon | TypeScript |
+| **[karamon.fr](https://karamon.fr)** | Plateforme Karamon | — |
+| **[ganyu.fr](https://ganyu.fr)** | — | — |
+ 
+---
+ 
+## Stats
+ 
+<p>
+  <img src="https://img.shields.io/github/followers/realKarasu?label=Followers&style=flat-square&color=181717&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/realKarasu?label=Stars&style=flat-square&color=181717&logo=github" alt="Stars"/>
 </p>
-
-📊 Stats
-<p align="center">
-  <a href="https://github.com/realKarasu">
-    <img src="https://img.shields.io/github/followers/realKarasu?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  </a>
-  <a href="https://github.com/realKarasu?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-2-blue?style=for-the-badge&logo=github" alt="Repos"/>
-  </a>
-  <a href="https://github.com/realKarasu/Launcher-Karamon">
-    <img src="https://img.shields.io/github/stars/realKarasu/Launcher-Karamon?style=for-the-badge&color=yellow" alt="Stars Launcher-Karamon"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=realKarasu&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/karavr"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://twitch.tv/probka"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
-</p>
+---
+ 
+## Contact
+ 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/karavr)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/probka)
+ 
