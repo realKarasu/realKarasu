@@ -38,13 +38,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/realKarasu/Launcher-Karamon"><img src="assets/card-launcher.svg" alt="Launcher-Karamon — Launcher officiel du projet Karamon (TypeScript)" width="380" /></a>
-  <a href="https://karamon.fr"><img src="assets/card-karamon.svg" alt="karamon.fr — Plateforme Karamon" width="380" /></a>
-</p>
-
-<p align="center">
-  <a href="https://ganyu.fr"><img src="assets/card-ganyu.svg" alt="ganyu.fr" width="380" /></a>
-  <a href="https://vskstudio.fr"><img src="assets/card-vsk.svg" alt="VSK — Studio, associé gérant" width="380" /></a>
+  <a href="https://github.com/realKarasu/Launcher-Karamon"><img src="https://img.shields.io/badge/Launcher--Karamon-9146FF?style=for-the-badge&labelColor=14121d" alt="Launcher-Karamon" /></a>
+  <a href="https://karamon.fr"><img src="https://img.shields.io/badge/karamon.fr-5865F2?style=for-the-badge&labelColor=14121d" alt="karamon.fr" /></a>
+  <a href="https://ganyu.fr"><img src="https://img.shields.io/badge/ganyu.fr-9146FF?style=for-the-badge&labelColor=14121d" alt="ganyu.fr" /></a>
+  <a href="https://vskstudio.fr"><img src="https://img.shields.io/badge/VSK-5865F2?style=for-the-badge&labelColor=14121d" alt="VSK" /></a>
 </p>
 
 <div align="center">
