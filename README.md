@@ -42,8 +42,8 @@
 </p>
 
 <p align="center">
-  <a href="https://karamon.fr"><img src="assets/bento-karamon.svg" alt="karamon.fr — site du projet Karamon, un serveur Minecraft custom sous Fabric" width="32%" /></a>
-  <a href="https://ganyu.fr"><img src="assets/bento-ganyu.svg" alt="ganyu.fr — le bot ultime pour Discord, un AIO" width="32%" /></a>
+  <a href="https://karamon.fr"><img src="assets/bento-karamon.svg" alt="karamon.fr — Serveur Minecraft custom sous Fabric" width="32%" /></a>
+  <a href="https://ganyu.fr"><img src="assets/bento-ganyu.svg" alt="ganyu.fr — Bot Discord ultime, tout-en-un" width="32%" /></a>
   <a href="https://vskstudio.fr"><img src="assets/bento-vsk.svg" alt="VSK — Sites vitrines, e-commerce et applications web" width="32%" /></a>
 </p>
 
