@@ -78,5 +78,5 @@
 </p>
 
 <div align="center">
-  <img src="assets/footer.svg" alt="Merci de votre visite" width="100%" />
+  <img src="assets/footer.svg" alt="" width="100%" />
 </div>
