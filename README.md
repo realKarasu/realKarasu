@@ -67,6 +67,5 @@
 
 <p align="center">
   <a href="https://discord.gg/karavr"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=14121d" alt="Discord" /></a>
-  <a href="https://twitch.tv/probka"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&labelColor=14121d" alt="Twitch" /></a>
   <a href="mailto:vskcorp.pro@gmail.com"><img src="https://img.shields.io/badge/Email-5865F2?style=flat-square&logo=gmail&logoColor=white&labelColor=14121d" alt="vskcorp.pro@gmail.com" /></a>
 </p>
