@@ -56,11 +56,6 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/realKarasu?label=Followers&style=flat-square&color=9146FF&labelColor=14121d&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/realKarasu?label=Stars&style=flat-square&color=5865F2&labelColor=14121d&logo=github&logoColor=white" alt="Stars" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realKarasu&theme=dracula" alt="Statistiques GitHub de Kara" width="84%" />
 </p>
 
