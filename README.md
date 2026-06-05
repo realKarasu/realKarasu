@@ -42,9 +42,9 @@
 </p>
 
 <p align="center">
-  <a href="https://karamon.fr"><img src="assets/bento-karamon.svg" alt="karamon.fr — Plateforme Karamon" width="32%" /></a>
-  <a href="https://ganyu.fr"><img src="assets/bento-ganyu.svg" alt="ganyu.fr" width="32%" /></a>
-  <a href="https://vskstudio.fr"><img src="assets/bento-vsk.svg" alt="VSK — Studio" width="32%" /></a>
+  <a href="https://karamon.fr"><img src="assets/bento-karamon.svg" alt="karamon.fr — site du projet Karamon, un serveur Minecraft custom sous Fabric" width="32%" /></a>
+  <a href="https://ganyu.fr"><img src="assets/bento-ganyu.svg" alt="ganyu.fr — le bot ultime pour Discord, un AIO" width="32%" /></a>
+  <a href="https://vskstudio.fr"><img src="assets/bento-vsk.svg" alt="VSK — Sites vitrines, e-commerce et applications web" width="32%" /></a>
 </p>
 
 <div align="center">
@@ -76,3 +76,7 @@
   <a href="https://discord.gg/karavr"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=14121d" alt="Discord" /></a>
   <a href="mailto:vskcorp.pro@gmail.com"><img src="https://img.shields.io/badge/Email-5865F2?style=flat-square&logo=gmail&logoColor=white&labelColor=14121d" alt="vskcorp.pro@gmail.com" /></a>
 </p>
+
+<div align="center">
+  <img src="assets/footer.svg" alt="Merci de votre visite" width="100%" />
+</div>
