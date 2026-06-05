@@ -1,4 +1,6 @@
-# Kara
+<div align="center">
+  <img src="assets/header.svg" alt="Kara — Développeur full-stack" width="100%" />
+</div>
  
 Développeur full-stack. Fondateur de [ganyu.fr](https://ganyu.fr) et [karamon.fr](https://karamon.fr).
  

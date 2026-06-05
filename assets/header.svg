@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 900 240" width="900" height="240" role="img"
+     aria-label="Kara — Développeur full-stack">
+  <title>Kara — Développeur full-stack</title>
+
+  <defs>
+    <!-- Rounded clip for the whole banner -->
+    <clipPath id="round">
+      <rect x="0" y="0" width="900" height="240" rx="26" ry="26"/>
+    </clipPath>
+
+    <!-- Base background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#0b0b12"/>
+      <stop offset="1"   stop-color="#14121d"/>
+    </linearGradient>
+
+    <!-- Blob gradients (Twitch violet + Discord blurple) -->
+    <radialGradient id="gBlurple" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0"  stop-color="#6f7bff"/>
+      <stop offset="1"  stop-color="#5865F2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gViolet" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0"  stop-color="#a974ff"/>
+      <stop offset="1"  stop-color="#9146FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gMix" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0"  stop-color="#b86cff"/>
+      <stop offset="1"  stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Heavy blur to fuse the blobs into a liquid mass -->
+    <filter id="goo" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="34"/>
+    </filter>
+
+    <!-- Soft outer shadow for the glass panel -->
+    <filter id="panelShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+
+    <!-- Glow behind the title -->
+    <filter id="titleGlow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+
+    <!-- Moving light sweep gradient -->
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.00" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.50" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="1.00" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Glass top highlight -->
+    <linearGradient id="glassFace" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"   stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="1"   stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <!-- backdrop -->
+    <rect x="0" y="0" width="900" height="240" fill="url(#bg)"/>
+
+    <!-- ===== Liquid blobs ===== -->
+    <g filter="url(#goo)">
+
+      <!-- blurple, left -->
+      <g>
+        <circle cx="0" cy="0" r="170" fill="url(#gBlurple)">
+          <animate attributeName="r" values="170;188;160;170" keyTimes="0;0.35;0.7;1"
+                   dur="11s" calcMode="spline"
+                   keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"
+                   repeatCount="indefinite"/>
+        </circle>
+        <animateTransform attributeName="transform" type="translate"
+          values="250,130; 300,160; 220,108; 250,130" keyTimes="0;0.33;0.66;1"
+          dur="13s" calcMode="spline"
+          keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"
+          repeatCount="indefinite"/>
+      </g>
+
+      <!-- violet, right -->
+      <g>
+        <circle cx="0" cy="0" r="150" fill="url(#gViolet)">
+          <animate attributeName="r" values="150;168;140;150" keyTimes="0;0.4;0.75;1"
+                   dur="9s" calcMode="spline"
+                   keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"
+                   repeatCount="indefinite"/>
+        </circle>
+        <animateTransform attributeName="transform" type="translate"
+          values="650,110; 600,140; 700,92; 650,110" keyTimes="0;0.33;0.66;1"
+          dur="10s" calcMode="spline"
+          keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"
+          repeatCount="indefinite"/>
+      </g>
+
+      <!-- mix accent, center -->
+      <g>
+        <circle cx="0" cy="0" r="120" fill="url(#gMix)">
+          <animate attributeName="r" values="120;138;108;120" keyTimes="0;0.3;0.65;1"
+                   dur="15s" calcMode="spline"
+                   keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"
+                   repeatCount="indefinite"/>
+        </circle>
+        <animateTransform attributeName="transform" type="translate"
+          values="470,150; 520,120; 430,175; 470,150" keyTimes="0;0.33;0.66;1"
+          dur="17s" calcMode="spline"
+          keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"
+          repeatCount="indefinite"/>
+      </g>
+
+      <!-- small bright, top -->
+      <g>
+        <circle cx="0" cy="0" r="84" fill="url(#gViolet)">
+          <animate attributeName="r" values="84;98;72;84" keyTimes="0;0.4;0.7;1"
+                   dur="8s" calcMode="spline"
+                   keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"
+                   repeatCount="indefinite"/>
+        </circle>
+        <animateTransform attributeName="transform" type="translate"
+          values="430,60; 500,40; 380,80; 430,60" keyTimes="0;0.33;0.66;1"
+          dur="12s" calcMode="spline"
+          keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1"
+          repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- subtle vignette to keep edges deep -->
+    <rect x="0" y="0" width="900" height="240" fill="#0b0b12" opacity="0.18"/>
+
+    <!-- ===== Frosted glass panel ===== -->
+    <g filter="url(#panelShadow)">
+      <rect x="262" y="62" width="376" height="116" rx="24" ry="24"
+            fill="#ffffff" fill-opacity="0.07"/>
+      <rect x="262" y="62" width="376" height="116" rx="24" ry="24"
+            fill="url(#glassFace)"/>
+      <rect x="262.5" y="62.5" width="375" height="115" rx="23.5" ry="23.5"
+            fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="1"/>
+    </g>
+
+    <!-- moving light sweep over the glass -->
+    <g clip-path="url(#round)">
+      <rect x="-300" y="0" width="300" height="240" fill="url(#sweep)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0,0; 1200,0" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- ===== Title ===== -->
+    <text x="450" y="128" text-anchor="middle" filter="url(#titleGlow)"
+          font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="58" font-weight="800" letter-spacing="16"
+          fill="#9146FF" fill-opacity="0.6">KARA</text>
+    <text x="450" y="128" text-anchor="middle"
+          font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="58" font-weight="800" letter-spacing="16"
+          fill="#ffffff">KARA</text>
+
+    <!-- Subtitle -->
+    <text x="452" y="156" text-anchor="middle"
+          font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+          font-size="12.5" font-weight="600" letter-spacing="7"
+          fill="#ffffff" fill-opacity="0.66">FULL-STACK DEVELOPER</text>
+
+    <!-- outer ring -->
+    <rect x="1" y="1" width="898" height="238" rx="25" ry="25"
+          fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+  </g>
+</svg>
