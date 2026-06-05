@@ -37,37 +37,15 @@
   <img src="assets/section-projets.svg" alt="Projets" height="58" />
 </div>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>Projet</th>
-      <th>Description</th>
-      <th>Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/realKarasu/Launcher-Karamon"><strong>Launcher-Karamon</strong></a></td>
-      <td>Launcher officiel du projet Karamon</td>
-      <td>TypeScript</td>
-    </tr>
-    <tr>
-      <td><a href="https://karamon.fr"><strong>karamon.fr</strong></a></td>
-      <td>Plateforme Karamon</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td><a href="https://ganyu.fr"><strong>ganyu.fr</strong></a></td>
-      <td>—</td>
-      <td>—</td>
-    </tr>
-    <tr>
-      <td><a href="https://vskstudio.fr"><strong>VSK</strong></a></td>
-      <td>Studio — associé gérant</td>
-      <td>—</td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <a href="https://github.com/realKarasu/Launcher-Karamon"><img src="assets/card-launcher.svg" alt="Launcher-Karamon — Launcher officiel du projet Karamon (TypeScript)" width="380" /></a>
+  <a href="https://karamon.fr"><img src="assets/card-karamon.svg" alt="karamon.fr — Plateforme Karamon" width="380" /></a>
+</p>
+
+<p align="center">
+  <a href="https://ganyu.fr"><img src="assets/card-ganyu.svg" alt="ganyu.fr" width="380" /></a>
+  <a href="https://vskstudio.fr"><img src="assets/card-vsk.svg" alt="VSK — Studio, associé gérant" width="380" /></a>
+</p>
 
 <div align="center">
   <img src="assets/divider.svg" alt="" width="100%" />
