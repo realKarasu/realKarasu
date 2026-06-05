@@ -17,16 +17,16 @@
 
 <p align="center">
   <strong>Langages</strong><br/>
-  TypeScript · C# · Java · LUA
+  TypeScript · JavaScript · Rust · Python · C# · Java · Lua
 </p>
 
 <p align="center">
   <strong>Frameworks &amp; outils</strong><br/>
-  Svelte · .NET · Docker
+  SvelteKit · Astro · React · Node.js · Express · tRPC · Prisma · Tailwind CSS · Electron · Vite · .NET · Docker · PostgreSQL · Redis
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,svelte,cs,dotnet,java,lua,docker&perline=7&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,svelte,astro,react,rust,python,nodejs,express,prisma,tailwind,vite,electron,cs,dotnet,java,lua,docker,postgres,redis&perline=10&theme=dark" alt="Stack" />
 </p>
 
 <div align="center">
