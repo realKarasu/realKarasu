@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  Développeur full-stack. Fondateur de <a href="https://ganyu.fr">ganyu.fr</a> et <a href="https://karamon.fr">karamon.fr</a>, associé gérant de <a href="https://vskstudio.fr">VSK</a>.<br/>
+  Fondateur de <a href="https://ganyu.fr">ganyu.fr</a> et <a href="https://karamon.fr">karamon.fr</a>, associé gérant de <a href="https://vskstudio.fr">VSK</a>.<br/>
   Je conçois et maintiens des applications web et desktop, du frontend à l'infrastructure.
 </p>
 
