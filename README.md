@@ -38,10 +38,13 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/realKarasu/Launcher-Karamon"><img src="https://img.shields.io/badge/Launcher--Karamon-9146FF?style=for-the-badge&labelColor=14121d" alt="Launcher-Karamon" /></a>
-  <a href="https://karamon.fr"><img src="https://img.shields.io/badge/karamon.fr-5865F2?style=for-the-badge&labelColor=14121d" alt="karamon.fr" /></a>
-  <a href="https://ganyu.fr"><img src="https://img.shields.io/badge/ganyu.fr-9146FF?style=for-the-badge&labelColor=14121d" alt="ganyu.fr" /></a>
-  <a href="https://vskstudio.fr"><img src="https://img.shields.io/badge/VSK-5865F2?style=for-the-badge&labelColor=14121d" alt="VSK" /></a>
+  <a href="https://github.com/realKarasu/Launcher-Karamon"><img src="assets/bento-launcher.svg" alt="Launcher-Karamon — Launcher officiel du projet Karamon (projet phare)" width="98%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://karamon.fr"><img src="assets/bento-karamon.svg" alt="karamon.fr — Plateforme Karamon" width="32%" /></a>
+  <a href="https://ganyu.fr"><img src="assets/bento-ganyu.svg" alt="ganyu.fr" width="32%" /></a>
+  <a href="https://vskstudio.fr"><img src="assets/bento-vsk.svg" alt="VSK — Studio" width="32%" /></a>
 </p>
 
 <div align="center">
@@ -55,6 +58,15 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/realKarasu?label=Followers&style=flat-square&color=9146FF&labelColor=14121d&logo=github&logoColor=white" alt="Followers" />
   <img src="https://img.shields.io/github/stars/realKarasu?label=Stars&style=flat-square&color=5865F2&labelColor=14121d&logo=github&logoColor=white" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realKarasu&theme=dracula" alt="Statistiques GitHub de Kara" width="84%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realKarasu&theme=dracula" alt="Langages les plus utilisés" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realKarasu&theme=dracula&utcOffset=2" alt="Heures de commit les plus productives" width="41%" />
 </p>
 
 <div align="center">

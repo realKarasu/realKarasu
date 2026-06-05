@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 150" width="250" height="150" role="img" aria-label="karamon.fr - Plateforme Karamon">
+  <title>karamon.fr</title>
+  <defs>
+    <clipPath id="c"><rect x="6" y="6" width="238" height="138" rx="20" ry="20"/></clipPath>
+    <radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#9146FF"/><stop offset="1" stop-color="#9146FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#5865F2"/><stop offset="1" stop-color="#5865F2" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9146FF"/><stop offset="1" stop-color="#5865F2"/></linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.15"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.04"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.02"/></linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.07"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="20"/></filter>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect x="6" y="6" width="238" height="138" fill="#0d0b14"/>
+    <g filter="url(#blur)">
+      <circle cx="70" cy="50" r="64" fill="url(#g2)"><animateTransform attributeName="transform" type="translate" begin="-2s" values="0,0; 50,12; -22,-8; 0,0" keyTimes="0;0.33;0.66;1" dur="13s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/></circle>
+      <circle cx="200" cy="120" r="60" fill="url(#g1)"><animateTransform attributeName="transform" type="translate" begin="-6s" values="0,0; -44,-12; 24,8; 0,0" keyTimes="0;0.33;0.66;1" dur="16s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/></circle>
+    </g>
+    <rect x="6" y="6" width="238" height="138" fill="url(#face)"/>
+    <rect x="6" y="6" width="6" height="138" fill="url(#accent)"/>
+    <rect x="-130" y="6" width="130" height="138" fill="url(#sweep)"><animateTransform attributeName="transform" type="translate" begin="-2s" values="0,0; 420,0" dur="7s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="6.5" y="6.5" width="237" height="137" rx="19.5" ry="19.5" fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="1"/>
+  <text x="230" y="34" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#ffffff" fill-opacity="0.45">&#8599;</text>
+  <text x="22" y="68" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">karamon.fr</text>
+  <text x="22" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11.5" fill="#ffffff" fill-opacity="0.6">Plateforme Karamon</text>
+</svg>
