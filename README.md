@@ -1,46 +1,96 @@
 <div align="center">
   <img src="assets/header.svg" alt="Kara — Développeur full-stack" width="100%" />
 </div>
- 
-Développeur full-stack. Fondateur de [ganyu.fr](https://ganyu.fr) et [karamon.fr](https://karamon.fr).
- 
-Je conçois et maintiens des applications web et desktop, du frontend à l'infrastructure.
- 
----
- 
-## Technologies
- 
-**Langages**  
-TypeScript · C# · Java · LUA
- 
-**Frameworks & outils**  
-Svelte · .NET · Docker
- 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,svelte,cs,dotnet,java,lua,docker&perline=7" alt="Stack"/>
+
+<p align="center">
+  Développeur full-stack. Fondateur de <a href="https://ganyu.fr">ganyu.fr</a> et <a href="https://karamon.fr">karamon.fr</a>, associé gérant de <a href="https://vskstudio.fr">VSK</a>.<br/>
+  Je conçois et maintiens des applications web et desktop, du frontend à l'infrastructure.
 </p>
----
- 
-## Projets
- 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **[Launcher-Karamon](https://github.com/realKarasu/Launcher-Karamon)** | Launcher officiel du projet Karamon | TypeScript |
-| **[karamon.fr](https://karamon.fr)** | Plateforme Karamon | — |
-| **[ganyu.fr](https://ganyu.fr)** | — | — |
- 
----
- 
-## Stats
- 
-<p>
-  <img src="https://img.shields.io/github/followers/realKarasu?label=Followers&style=flat-square&color=181717&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/realKarasu?label=Stars&style=flat-square&color=181717&logo=github" alt="Stars"/>
+
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<div align="center">
+  <img src="assets/section-technologies.svg" alt="Technologies" height="58" />
+</div>
+
+<p align="center">
+  <strong>Langages</strong><br/>
+  TypeScript · C# · Java · LUA
 </p>
----
- 
-## Contact
- 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/karavr)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/probka)
- 
+
+<p align="center">
+  <strong>Frameworks &amp; outils</strong><br/>
+  Svelte · .NET · Docker
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,svelte,cs,dotnet,java,lua,docker&perline=7&theme=dark" alt="Stack" />
+</p>
+
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<div align="center">
+  <img src="assets/section-projets.svg" alt="Projets" height="58" />
+</div>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Projet</th>
+      <th>Description</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/realKarasu/Launcher-Karamon"><strong>Launcher-Karamon</strong></a></td>
+      <td>Launcher officiel du projet Karamon</td>
+      <td>TypeScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://karamon.fr"><strong>karamon.fr</strong></a></td>
+      <td>Plateforme Karamon</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><a href="https://ganyu.fr"><strong>ganyu.fr</strong></a></td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><a href="https://vskstudio.fr"><strong>VSK</strong></a></td>
+      <td>Studio — associé gérant</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<div align="center">
+  <img src="assets/section-stats.svg" alt="Stats" height="58" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/realKarasu?label=Followers&style=flat-square&color=9146FF&labelColor=14121d&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/realKarasu?label=Stars&style=flat-square&color=5865F2&labelColor=14121d&logo=github&logoColor=white" alt="Stars" />
+</p>
+
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</div>
+
+<div align="center">
+  <img src="assets/section-contact.svg" alt="Contact" height="58" />
+</div>
+
+<p align="center">
+  <a href="https://discord.gg/karavr"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=14121d" alt="Discord" /></a>
+  <a href="https://twitch.tv/probka"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&labelColor=14121d" alt="Twitch" /></a>
+</p>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 36" width="900" height="36"
+     role="img" aria-label="">
+  <defs>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.00" stop-color="#5865F2" stop-opacity="0"/>
+      <stop offset="0.22" stop-color="#5865F2" stop-opacity="0.85"/>
+      <stop offset="0.50" stop-color="#9146FF" stop-opacity="1"/>
+      <stop offset="0.78" stop-color="#9146FF" stop-opacity="0.85"/>
+      <stop offset="1.00" stop-color="#5865F2" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-5%" y="-300%" width="110%" height="700%">
+      <feGaussianBlur stdDeviation="2.4"/>
+    </filter>
+    <clipPath id="cw"><rect x="0" y="0" width="900" height="36"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#cw)">
+    <!-- back wave: faint, blurred, drifting right (slow) -->
+    <g filter="url(#soft)" opacity="0.45">
+      <path d="M -600 18 q 75 -11 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0"
+            fill="none" stroke="url(#ln)" stroke-width="2">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; 300 0" dur="9s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <!-- front wave: crisp, drifting left -->
+    <path d="M -600 18 q 75 11 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0 t 150 0"
+          fill="none" stroke="url(#ln)" stroke-width="2.4">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -300 0" dur="6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
