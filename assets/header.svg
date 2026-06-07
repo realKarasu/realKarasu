@@ -11,22 +11,22 @@
 
     <!-- Base background -->
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0"   stop-color="#0b0b12"/>
-      <stop offset="1"   stop-color="#14121d"/>
+      <stop offset="0"   stop-color="#150611"/>
+      <stop offset="1"   stop-color="#4A1037"/>
     </linearGradient>
 
     <!-- Blob gradients (Twitch violet + Discord blurple) -->
     <radialGradient id="gBlurple" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0"  stop-color="#6f7bff"/>
-      <stop offset="1"  stop-color="#5865F2" stop-opacity="0"/>
+      <stop offset="0"  stop-color="#CF8FB5"/>
+      <stop offset="1"  stop-color="#7B245B" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="gViolet" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0"  stop-color="#a974ff"/>
-      <stop offset="1"  stop-color="#9146FF" stop-opacity="0"/>
+      <stop offset="0"  stop-color="#CF8FB5"/>
+      <stop offset="1"  stop-color="#A6467E" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="gMix" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0"  stop-color="#b86cff"/>
-      <stop offset="1"  stop-color="#7c5cff" stop-opacity="0"/>
+      <stop offset="0"  stop-color="#F0D7E8"/>
+      <stop offset="1"  stop-color="#A6467E" stop-opacity="0"/>
     </radialGradient>
 
     <!-- Heavy blur to fuse the blobs into a liquid mass -->
@@ -128,7 +128,7 @@
     </g>
 
     <!-- subtle vignette to keep edges deep -->
-    <rect x="0" y="0" width="900" height="240" fill="#0b0b12" opacity="0.18"/>
+    <rect x="0" y="0" width="900" height="240" fill="#150611" opacity="0.18"/>
 
     <!-- ===== Frosted glass panel ===== -->
     <g filter="url(#panelShadow)">
@@ -152,7 +152,7 @@
     <text x="450" y="128" text-anchor="middle" filter="url(#titleGlow)"
           font-family="'Segoe UI', Helvetica, Arial, sans-serif"
           font-size="58" font-weight="800" letter-spacing="16"
-          fill="#9146FF" fill-opacity="0.6">KARA</text>
+          fill="#A6467E" fill-opacity="0.6">KARA</text>
     <text x="450" y="128" text-anchor="middle"
           font-family="'Segoe UI', Helvetica, Arial, sans-serif"
           font-size="58" font-weight="800" letter-spacing="16"

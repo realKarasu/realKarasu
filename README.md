@@ -56,12 +56,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realKarasu&theme=dracula" alt="Statistiques GitHub de Kara" width="84%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realKarasu&theme=radical" alt="Statistiques GitHub de Kara" width="84%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realKarasu&theme=dracula" alt="Langages les plus utilisés" width="41%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realKarasu&theme=dracula&utcOffset=2" alt="Heures de commit les plus productives" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realKarasu&theme=radical" alt="Langages les plus utilisés" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realKarasu&theme=radical&utcOffset=2" alt="Heures de commit les plus productives" width="41%" />
 </p>
 
 <div align="center">
@@ -73,8 +73,8 @@
 </div>
 
 <p align="center">
-  <a href="https://discord.gg/karavr"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=14121d" alt="Discord" /></a>
-  <a href="mailto:vskcorp.pro@gmail.com"><img src="https://img.shields.io/badge/Email-5865F2?style=flat-square&logo=gmail&logoColor=white&labelColor=14121d" alt="vskcorp.pro@gmail.com" /></a>
+  <a href="https://discord.gg/karavr"><img src="https://img.shields.io/badge/Discord-A6467E?style=flat-square&logo=discord&logoColor=white&labelColor=150611" alt="Discord" /></a>
+  <a href="mailto:vskcorp.pro@gmail.com"><img src="https://img.shields.io/badge/Email-A6467E?style=flat-square&logo=gmail&logoColor=white&labelColor=150611" alt="vskcorp.pro@gmail.com" /></a>
 </p>
 
 <div align="center">
