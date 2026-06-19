@@ -3,10 +3,10 @@
   <defs>
     <clipPath id="pill"><rect x="20" y="12" width="400" height="48" rx="24" ry="24"/></clipPath>
     <radialGradient id="b1" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#A6467E"/><stop offset="1" stop-color="#A6467E" stop-opacity="0"/>
+      <stop offset="0" stop-color="#5B97A6"/><stop offset="1" stop-color="#5B97A6" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="b2" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#7B245B"/><stop offset="1" stop-color="#7B245B" stop-opacity="0"/>
+      <stop offset="0" stop-color="#2F6B72"/><stop offset="1" stop-color="#2F6B72" stop-opacity="0"/>
     </radialGradient>
     <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="17"/></filter>
     <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
@@ -22,7 +22,7 @@
   </defs>
 
   <g clip-path="url(#pill)">
-    <rect x="20" y="12" width="400" height="48" fill="#150611"/>
+    <rect x="20" y="12" width="400" height="48" fill="#08151A"/>
     <g filter="url(#blur)">
       <circle cx="150" cy="38" r="58" fill="url(#b2)">
         <animateTransform attributeName="transform" type="translate" values="0,0; 60,6; -24,-6; 0,0" keyTimes="0;0.33;0.66;1" dur="9s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
