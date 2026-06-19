@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Kara — Développeur full-stack" width="100%" />
+  <img src="assets/header.svg?v=2" alt="Kara — Développeur full-stack" width="100%" />
 </div>
 
 <p align="center">
@@ -8,11 +8,11 @@
 </p>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="assets/divider.svg?v=2" alt="" width="100%" />
 </div>
 
 <div align="center">
-  <img src="assets/section-technologies.svg" alt="Technologies" height="58" />
+  <img src="assets/section-technologies.svg?v=2" alt="Technologies" height="58" />
 </div>
 
 <p align="center">
@@ -30,29 +30,29 @@
 </p>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="assets/divider.svg?v=2" alt="" width="100%" />
 </div>
 
 <div align="center">
-  <img src="assets/section-projets.svg" alt="Projets" height="58" />
+  <img src="assets/section-projets.svg?v=2" alt="Projets" height="58" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/realKarasu/Launcher-Karamon"><img src="assets/bento-launcher.svg" alt="Launcher-Karamon — Launcher officiel du projet Karamon (projet phare)" width="98%" /></a>
+  <a href="https://github.com/realKarasu/Launcher-Karamon"><img src="assets/bento-launcher.svg?v=2" alt="Launcher-Karamon — Launcher officiel du projet Karamon (projet phare)" width="98%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://karamon.fr"><img src="assets/bento-karamon.svg" alt="karamon.fr — Serveur Minecraft custom sous Fabric" width="32%" /></a>
-  <a href="https://ganyu.fr"><img src="assets/bento-ganyu.svg" alt="ganyu.fr — Bot Discord ultime, tout-en-un" width="32%" /></a>
-  <a href="https://vskstudio.fr"><img src="assets/bento-vsk.svg" alt="VSK — Sites vitrines, e-commerce et applications web" width="32%" /></a>
+  <a href="https://karamon.fr"><img src="assets/bento-karamon.svg?v=2" alt="karamon.fr — Serveur Minecraft custom sous Fabric" width="32%" /></a>
+  <a href="https://ganyu.fr"><img src="assets/bento-ganyu.svg?v=2" alt="ganyu.fr — Bot Discord ultime, tout-en-un" width="32%" /></a>
+  <a href="https://vskstudio.fr"><img src="assets/bento-vsk.svg?v=2" alt="VSK — Sites vitrines, e-commerce et applications web" width="32%" /></a>
 </p>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="assets/divider.svg?v=2" alt="" width="100%" />
 </div>
 
 <div align="center">
-  <img src="assets/section-stats.svg" alt="Stats" height="58" />
+  <img src="assets/section-stats.svg?v=2" alt="Stats" height="58" />
 </div>
 
 <p align="center">
@@ -65,11 +65,11 @@
 </p>
 
 <div align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="assets/divider.svg?v=2" alt="" width="100%" />
 </div>
 
 <div align="center">
-  <img src="assets/section-contact.svg" alt="Contact" height="58" />
+  <img src="assets/section-contact.svg?v=2" alt="Contact" height="58" />
 </div>
 
 <p align="center">
@@ -78,5 +78,5 @@
 </p>
 
 <div align="center">
-  <img src="assets/footer.svg" alt="" width="100%" />
+  <img src="assets/footer.svg?v=2" alt="" width="100%" />
 </div>
