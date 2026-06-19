@@ -56,12 +56,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realKarasu&theme=radical" alt="Statistiques GitHub de Kara" width="84%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realKarasu&theme=nord_dark" alt="Statistiques GitHub de Kara" width="84%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realKarasu&theme=radical" alt="Langages les plus utilisés" width="41%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realKarasu&theme=radical&utcOffset=2" alt="Heures de commit les plus productives" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realKarasu&theme=nord_dark" alt="Langages les plus utilisés" width="41%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realKarasu&theme=nord_dark&utcOffset=2" alt="Heures de commit les plus productives" width="41%" />
 </p>
 
 <div align="center">
