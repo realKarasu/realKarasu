@@ -73,8 +73,8 @@
 </div>
 
 <p align="center">
-  <a href="https://discord.gg/karavr"><img src="https://img.shields.io/badge/Discord-A6467E?style=flat-square&logo=discord&logoColor=white&labelColor=150611" alt="Discord" /></a>
-  <a href="mailto:vskcorp.pro@gmail.com"><img src="https://img.shields.io/badge/Email-A6467E?style=flat-square&logo=gmail&logoColor=white&labelColor=150611" alt="vskcorp.pro@gmail.com" /></a>
+  <a href="https://discord.gg/karavr"><img src="https://img.shields.io/badge/Discord-5B97A6?style=flat-square&logo=discord&logoColor=white&labelColor=08151A" alt="Discord" /></a>
+  <a href="mailto:vskcorp.pro@gmail.com"><img src="https://img.shields.io/badge/Email-5B97A6?style=flat-square&logo=gmail&logoColor=white&labelColor=08151A" alt="vskcorp.pro@gmail.com" /></a>
 </p>
 
 <div align="center">
