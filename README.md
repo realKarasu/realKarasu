@@ -38,13 +38,15 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/realKarasu/Launcher-Karamon"><img src="assets/bento-launcher.svg?v=2" alt="Launcher-Karamon — Launcher officiel du projet Karamon (projet phare)" width="98%" /></a>
+  <a href="https://github.com/vskstudio/naht"><img src="assets/project-naht.png" alt="naht — Sync bidirectionnel entre ton disque et Roblox Studio (Rust)" width="98%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://karamon.fr"><img src="assets/bento-karamon.svg?v=2" alt="karamon.fr — Serveur Minecraft custom sous Fabric" width="32%" /></a>
-  <a href="https://ganyu.fr"><img src="assets/bento-ganyu.svg?v=2" alt="ganyu.fr — Bot Discord ultime, tout-en-un" width="32%" /></a>
-  <a href="https://vskstudio.fr"><img src="assets/bento-vsk.svg?v=2" alt="VSK — Sites vitrines, e-commerce et applications web" width="32%" /></a>
+  <a href="https://ganyu.fr"><img src="assets/project-ganyu.png" alt="ganyu.fr — Bot Discord ultime, tout-en-un" width="98%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://vskstudio.fr"><img src="assets/project-vsk.png" alt="VSK — Sites vitrines, e-commerce et applications web sur-mesure" width="98%" /></a>
 </p>
 
 <div align="center">
