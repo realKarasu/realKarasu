@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vskstudio.fr"><img src="assets/project-vsk.png?v=2" alt="VSK — Sites vitrines, e-commerce et applications web sur-mesure" width="98%" /></a>
+  <a href="https://vskstudio.fr"><img src="assets/project-vsk.png?v=3" alt="VSK — Sites vitrines, e-commerce et applications web sur-mesure" width="98%" /></a>
 </p>
 
 <div align="center">
