@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/vskstudio/naht"><img src="assets/project-naht.png?v=2" alt="naht — Sync bidirectionnel entre ton disque et Roblox Studio (Rust)" width="98%" /></a>
+  <a href="https://github.com/vskstudio/naht"><img src="assets/project-naht.png?v=3" alt="naht — Sync bidirectionnel entre ton disque et Roblox Studio (Rust)" width="98%" /></a>
 </p>
 
 <p align="center">
