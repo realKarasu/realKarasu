@@ -38,15 +38,15 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/vskstudio/naht"><img src="assets/project-naht.png" alt="naht — Sync bidirectionnel entre ton disque et Roblox Studio (Rust)" width="98%" /></a>
+  <a href="https://github.com/vskstudio/naht"><img src="assets/project-naht.png?v=2" alt="naht — Sync bidirectionnel entre ton disque et Roblox Studio (Rust)" width="98%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://ganyu.fr"><img src="assets/project-ganyu.png" alt="ganyu.fr — Bot Discord ultime, tout-en-un" width="98%" /></a>
+  <a href="https://ganyu.fr"><img src="assets/project-ganyu.png?v=2" alt="ganyu.fr — Bot Discord ultime, tout-en-un" width="98%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://vskstudio.fr"><img src="assets/project-vsk.png" alt="VSK — Sites vitrines, e-commerce et applications web sur-mesure" width="98%" /></a>
+  <a href="https://vskstudio.fr"><img src="assets/project-vsk.png?v=2" alt="VSK — Sites vitrines, e-commerce et applications web sur-mesure" width="98%" /></a>
 </p>
 
 <div align="center">
