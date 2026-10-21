@@ -1,84 +1,64 @@
 <div align="center">
-  <img src="assets/header.svg?v=2" alt="Kara — Développeur full-stack" width="100%" />
+  <img src="assets/header.svg?v=4" alt="KARA — Fullstack developer & agentic engineer" width="100%" />
 </div>
 
 <p align="center">
-  Fondateur de <a href="https://ganyu.fr">ganyu.fr</a> et <a href="https://karamon.fr">karamon.fr</a>, associé gérant de <a href="https://vskstudio.fr">VSK</a>.<br/>
-  Je conçois et maintiens des applications web et desktop, du frontend à l'infrastructure.
+  Fondateur de <a href="https://ganyu.fr">ganyu.fr</a> et <a href="https://karamon.fr">karamon.fr</a>, associé gérant de <a href="https://vskstudio.fr">VSK Studio</a>.<br/>
+  Je conçois, code et maintiens des applications web, desktop et des outils pour agents IA, du frontend jusqu'à l'infra.
 </p>
 
-<div align="center">
-  <img src="assets/divider.svg?v=2" alt="" width="100%" />
-</div>
-
-<div align="center">
-  <img src="assets/section-technologies.svg?v=2" alt="Technologies" height="58" />
-</div>
+<img src="assets/section-stack.svg?v=4" alt="Stack" width="100%" />
 
 <p align="center">
-  <strong>Langages</strong><br/>
-  TypeScript · Rust · C# · Python · Java
+  <img src="assets/stack.svg?v=4" alt="TypeScript, Rust, Go, Java, C++, Luau · SvelteKit, React, Astro, Tailwind CSS, Node.js · Tauri, egui, Docker, nginx, Linux · PostgreSQL, SQLite · Claude Code, MCP" width="100%" />
 </p>
 
+<img src="assets/section-projets.svg?v=4" alt="Projets" width="100%" />
+
 <p align="center">
-  <strong>Frameworks &amp; outils</strong><br/>
-  SvelteKit · React · Tailwind CSS · Node.js · .NET
+  <a href="https://ganyu.fr"><img src="assets/project-ganyu.png?v=4" alt="ganyu.fr — Bot Discord français tout-en-un" width="100%" /></a>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,rust,cs,python,java,svelte,react,tailwind,nodejs,dotnet&perline=10&theme=dark" alt="Stack" />
-</p>
-
-<div align="center">
-  <img src="assets/divider.svg?v=2" alt="" width="100%" />
-</div>
-
-<div align="center">
-  <img src="assets/section-projets.svg?v=2" alt="Projets" height="58" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/vskstudio/naht"><img src="assets/project-naht.png?v=3" alt="naht — Sync bidirectionnel entre ton disque et Roblox Studio (Rust)" width="98%" /></a>
+  <a href="https://karamon.fr"><img src="assets/project-karamon.png?v=4" alt="karamon.fr — Serveur Minecraft Cobblemon francophone" width="100%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://ganyu.fr"><img src="assets/project-ganyu.png?v=2" alt="ganyu.fr — Bot Discord ultime, tout-en-un" width="98%" /></a>
+  <a href="https://vskstudio.fr"><img src="assets/project-vsk.png?v=4" alt="vskstudio.fr — Studio de développement web sur-mesure" width="100%" /></a>
+</p>
+
+<img src="assets/section-opensource.svg?v=4" alt="Open source" width="100%" />
+
+<p align="center">
+  <img src="assets/opensource.svg?v=4" alt="Repos open source : naht, Veloce, Tamapokon, Karamon-launcher, mdt-board, krepe-art" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://vskstudio.fr"><img src="assets/project-vsk.png?v=3" alt="VSK — Sites vitrines, e-commerce et applications web sur-mesure" width="98%" /></a>
+  <a href="https://github.com/vskstudio/naht">naht</a> ·
+  <a href="https://github.com/realKarasu/Veloce">Veloce</a> ·
+  <a href="https://github.com/realKarasu/Tamapokon">Tamapokon</a> ·
+  <a href="https://github.com/vskstudio/Karamon-launcher">Karamon-launcher</a> ·
+  <a href="https://github.com/realKarasu/mdt-board">mdt-board</a> ·
+  <a href="https://github.com/realKarasu/krepe-art">krepe-art</a>
 </p>
 
-<div align="center">
-  <img src="assets/divider.svg?v=2" alt="" width="100%" />
-</div>
-
-<div align="center">
-  <img src="assets/section-stats.svg?v=2" alt="Stats" height="58" />
-</div>
+<img src="assets/section-stats.svg?v=4" alt="Télémétrie" width="100%" />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realKarasu&theme=nord_dark" alt="Statistiques GitHub de Kara" width="84%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=realKarasu&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&card_width=420&custom_title=realKarasu&bg_color=0B0305&title_color=FF1F3D&text_color=FF8FA3&icon_color=4DF5E8&border_color=5A1220" alt="Statistiques GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realKarasu&layout=compact&langs_count=8&locale=fr&bg_color=0B0305&title_color=FF1F3D&text_color=FF8FA3&border_color=5A1220" alt="Langages les plus utilisés" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=realKarasu&theme=nord_dark" alt="Langages les plus utilisés" width="41%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=realKarasu&theme=nord_dark&utcOffset=2" alt="Heures de commit les plus productives" width="41%" />
+  <img src="https://streak-stats.demolab.com?user=realKarasu&locale=fr&background=0B0305&border=5A1220&stroke=5A1220&ring=FF1F3D&fire=4DF5E8&currStreakNum=FFF1F3&sideNums=FF8FA3&currStreakLabel=FF1F3D&sideLabels=FF8FA3&dates=8A4A55" alt="Série de contributions" width="70%" />
 </p>
 
-<div align="center">
-  <img src="assets/divider.svg?v=2" alt="" width="100%" />
-</div>
-
-<div align="center">
-  <img src="assets/section-contact.svg?v=2" alt="Contact" height="58" />
-</div>
+<img src="assets/section-contact.svg?v=4" alt="Contact" width="100%" />
 
 <p align="center">
-  <a href="https://discord.gg/karavr"><img src="https://img.shields.io/badge/Discord-5B97A6?style=flat-square&logo=discord&logoColor=white&labelColor=08151A" alt="Discord" /></a>
-  <a href="mailto:vskcorp.pro@gmail.com"><img src="https://img.shields.io/badge/Email-5B97A6?style=flat-square&logo=gmail&logoColor=white&labelColor=08151A" alt="vskcorp.pro@gmail.com" /></a>
+  <a href="https://discord.gg/kara"><img src="https://img.shields.io/badge/Discord-discord.gg%2Fkara-FF1F3D?style=for-the-badge&logo=discord&logoColor=4DF5E8&labelColor=0B0305" alt="Discord : discord.gg/kara" /></a>
+  <a href="mailto:contact@vskstudio.fr"><img src="https://img.shields.io/badge/Email-contact%40vskstudio.fr-FF1F3D?style=for-the-badge&logo=maildotru&logoColor=4DF5E8&labelColor=0B0305" alt="contact@vskstudio.fr" /></a>
+  <a href="https://vskstudio.fr"><img src="https://img.shields.io/badge/Studio-vskstudio.fr-FF1F3D?style=for-the-badge&logo=googlechrome&logoColor=4DF5E8&labelColor=0B0305" alt="vskstudio.fr" /></a>
 </p>
 
-<div align="center">
-  <img src="assets/footer.svg?v=2" alt="" width="100%" />
-</div>
+<img src="assets/footer.svg?v=4" alt="" width="100%" />
