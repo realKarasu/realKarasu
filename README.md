@@ -2,11 +2,6 @@
   <img src="assets/header.svg?v=4" alt="KARA — Fullstack developer & agentic engineer" width="100%" />
 </div>
 
-<p align="center">
-  Fondateur de <a href="https://ganyu.fr">ganyu.fr</a> et <a href="https://karamon.fr">karamon.fr</a>, associé gérant de <a href="https://vskstudio.fr">VSK Studio</a>.<br/>
-  Je conçois, code et maintiens des applications web, desktop et des outils pour agents IA, du frontend jusqu'à l'infra.
-</p>
-
 <img src="assets/section-stack.svg?v=4" alt="Stack" width="100%" />
 
 <p align="center">
