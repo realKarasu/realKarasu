@@ -7,12 +7,12 @@
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}.ghost{transform:translate(4px,4px);opacity:.7}
 .pulse{animation:p 4s linear infinite}@keyframes p{from{transform:translateX(0)}to{transform:translateX(607px)}}</style>
 
-<polygon points="12,8 125,8 125,36 113,48 0,48 0,20" fill="#FF1F3D"/>
-<polygon class="ghost" points="12,8 125,8 125,36 113,48 0,48 0,20" fill="none" stroke="#4DF5E8" stroke-width="1.5"/>
-<text class="d" x="20" y="37" font-size="24" letter-spacing="3" fill="#0B0305">STACK</text>
-<text class="m" x="143" y="34" font-size="15" fill="#FF8FA3" letter-spacing="1">// langages, frameworks &amp; outils</text>
-<path d="M143 44 H790" stroke="#FF1F3D" stroke-opacity="0.45"/>
-<rect class="pulse" x="143" y="43" width="40" height="2" fill="#4DF5E8"/>
-<text class="m" x="900" y="34" font-size="13" fill="#8A4A55" text-anchor="end" letter-spacing="1">0x53544143</text>
+<polygon points="12,8 125,8 125,36 113,48 0,48 0,20" fill="#FF0F47"/>
+<polygon class="ghost" points="12,8 125,8 125,36 113,48 0,48 0,20" fill="none" stroke="#10F884" stroke-width="1.5"/>
+<text class="d" x="20" y="37" font-size="24" letter-spacing="3" fill="#0B071A">STACK</text>
+<text class="m" x="143" y="34" font-size="15" fill="#B79BFF" letter-spacing="1">// langages, frameworks &amp; outils</text>
+<path d="M143 44 H790" stroke="#FF0F47" stroke-opacity="0.45"/>
+<rect class="pulse" x="143" y="43" width="40" height="2" fill="#10F884"/>
+<text class="m" x="900" y="34" font-size="13" fill="#6B5A9E" text-anchor="end" letter-spacing="1">0x53544143</text>
 
 </svg>

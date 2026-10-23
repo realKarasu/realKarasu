@@ -7,32 +7,32 @@
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}.scan{animation:s 5s linear infinite}@keyframes s{to{transform:translateY(326px)}}</style>
 
 <defs><clipPath id="p"><polygon points="20,0 900,0 900,266 880,286 0,286 0,20"/></clipPath>
-<linearGradient id="sc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4DF5E8" stop-opacity="0"/><stop offset="1" stop-color="#4DF5E8" stop-opacity="0.18"/></linearGradient></defs>
-<g clip-path="url(#p)"><rect width="900" height="286" fill="#0B0305"/>
-<text class="m" x="28" y="53" font-size="14" fill="#FF8FA3" letter-spacing="2">LANGAGES</text><polygon points="198,30 318,30 318,56 310,64 190,64 190,38" fill="#3A0C14" stroke="#FF1F3D" stroke-opacity="1"/>
-<text class="b" x="254" y="53" font-size="16" text-anchor="middle" fill="#FFF1F3">TypeScript</text><polygon points="336,30 400,30 400,56 392,64 328,64 328,38" fill="#3A0C14" stroke="#FF1F3D" stroke-opacity="1"/>
-<text class="b" x="364" y="53" font-size="16" text-anchor="middle" fill="#FFF1F3">Rust</text><polygon points="418,30 463,30 463,56 455,64 410,64 410,38" fill="#3A0C14" stroke="#FF1F3D" stroke-opacity="1"/>
-<text class="b" x="436.5" y="53" font-size="16" text-anchor="middle" fill="#FFF1F3">Go</text><polygon points="481,30 545,30 545,56 537,64 473,64 473,38" fill="#3A0C14" stroke="#FF1F3D" stroke-opacity="1"/>
-<text class="b" x="509" y="53" font-size="16" text-anchor="middle" fill="#FFF1F3">Java</text><polygon points="563,30 617,30 617,56 609,64 555,64 555,38" fill="#3A0C14" stroke="#FF1F3D" stroke-opacity="1"/>
-<text class="b" x="586" y="53" font-size="16" text-anchor="middle" fill="#FFF1F3">C++</text><polygon points="635,30 699,30 699,56 691,64 627,64 627,38" fill="#3A0C14" stroke="#FF1F3D" stroke-opacity="1"/>
-<text class="b" x="663" y="53" font-size="16" text-anchor="middle" fill="#FFF1F3">Luau</text><text class="m" x="28" y="103" font-size="14" fill="#FF8FA3" letter-spacing="2">WEB</text><polygon points="198,80 309,80 309,106 301,114 190,114 190,88" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="249.5" y="103" font-size="16" text-anchor="middle" fill="#FF8FA3">SvelteKit</text><polygon points="327,80 400,80 400,106 392,114 319,114 319,88" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="359.5" y="103" font-size="16" text-anchor="middle" fill="#FF8FA3">React</text><polygon points="418,80 491,80 491,106 483,114 410,114 410,88" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="450.5" y="103" font-size="16" text-anchor="middle" fill="#FF8FA3">Astro</text><polygon points="509,80 648,80 648,106 640,114 501,114 501,88" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="574.5" y="103" font-size="16" text-anchor="middle" fill="#FF8FA3">Tailwind CSS</text><polygon points="666,80 758,80 758,106 750,114 658,114 658,88" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="708" y="103" font-size="16" text-anchor="middle" fill="#FF8FA3">Node.js</text><text class="m" x="28" y="153" font-size="14" fill="#FF8FA3" letter-spacing="2">DESKTOP / SYS</text><polygon points="198,130 271,130 271,156 263,164 190,164 190,138" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="230.5" y="153" font-size="16" text-anchor="middle" fill="#FF8FA3">Tauri</text><polygon points="289,130 353,130 353,156 345,164 281,164 281,138" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="317" y="153" font-size="16" text-anchor="middle" fill="#FF8FA3">egui</text><polygon points="371,130 453,130 453,156 445,164 363,164 363,138" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="408" y="153" font-size="16" text-anchor="middle" fill="#FF8FA3">Docker</text><polygon points="471,130 544,130 544,156 536,164 463,164 463,138" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="503.5" y="153" font-size="16" text-anchor="middle" fill="#FF8FA3">nginx</text><polygon points="562,130 635,130 635,156 627,164 554,164 554,138" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="594.5" y="153" font-size="16" text-anchor="middle" fill="#FF8FA3">Linux</text><text class="m" x="28" y="203" font-size="14" fill="#FF8FA3" letter-spacing="2">DATA</text><polygon points="198,180 318,180 318,206 310,214 190,214 190,188" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="254" y="203" font-size="16" text-anchor="middle" fill="#FF8FA3">PostgreSQL</text><polygon points="336,180 418,180 418,206 410,214 328,214 328,188" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="373" y="203" font-size="16" text-anchor="middle" fill="#FF8FA3">SQLite</text><text class="m" x="28" y="253" font-size="14" fill="#FF8FA3" letter-spacing="2">IA</text><polygon points="198,230 327,230 327,256 319,264 190,264 190,238" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="258.5" y="253" font-size="16" text-anchor="middle" fill="#FF8FA3">Claude Code</text><polygon points="345,230 399,230 399,256 391,264 337,264 337,238" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="368" y="253" font-size="16" text-anchor="middle" fill="#FF8FA3">MCP</text><polygon points="417,230 499,230 499,256 491,264 409,264 409,238" fill="#1A0609" stroke="#8A4A55" stroke-opacity="0.7"/>
-<text class="b" x="454" y="253" font-size="16" text-anchor="middle" fill="#FF8FA3">Agents</text>
+<linearGradient id="sc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10F884" stop-opacity="0"/><stop offset="1" stop-color="#10F884" stop-opacity="0.18"/></linearGradient></defs>
+<g clip-path="url(#p)"><rect width="900" height="286" fill="#0B071A"/>
+<text class="m" x="28" y="53" font-size="14" fill="#B79BFF" letter-spacing="2">LANGAGES</text><polygon points="198,30 318,30 318,56 310,64 190,64 190,38" fill="#2A1458" stroke="#FF0F47" stroke-opacity="1"/>
+<text class="b" x="254" y="53" font-size="16" text-anchor="middle" fill="#F5F2FF">TypeScript</text><polygon points="336,30 400,30 400,56 392,64 328,64 328,38" fill="#2A1458" stroke="#FF0F47" stroke-opacity="1"/>
+<text class="b" x="364" y="53" font-size="16" text-anchor="middle" fill="#F5F2FF">Rust</text><polygon points="418,30 463,30 463,56 455,64 410,64 410,38" fill="#2A1458" stroke="#FF0F47" stroke-opacity="1"/>
+<text class="b" x="436.5" y="53" font-size="16" text-anchor="middle" fill="#F5F2FF">Go</text><polygon points="481,30 545,30 545,56 537,64 473,64 473,38" fill="#2A1458" stroke="#FF0F47" stroke-opacity="1"/>
+<text class="b" x="509" y="53" font-size="16" text-anchor="middle" fill="#F5F2FF">Java</text><polygon points="563,30 617,30 617,56 609,64 555,64 555,38" fill="#2A1458" stroke="#FF0F47" stroke-opacity="1"/>
+<text class="b" x="586" y="53" font-size="16" text-anchor="middle" fill="#F5F2FF">C++</text><polygon points="635,30 699,30 699,56 691,64 627,64 627,38" fill="#2A1458" stroke="#FF0F47" stroke-opacity="1"/>
+<text class="b" x="663" y="53" font-size="16" text-anchor="middle" fill="#F5F2FF">Luau</text><text class="m" x="28" y="103" font-size="14" fill="#B79BFF" letter-spacing="2">WEB</text><polygon points="198,80 309,80 309,106 301,114 190,114 190,88" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="249.5" y="103" font-size="16" text-anchor="middle" fill="#B79BFF">SvelteKit</text><polygon points="327,80 400,80 400,106 392,114 319,114 319,88" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="359.5" y="103" font-size="16" text-anchor="middle" fill="#B79BFF">React</text><polygon points="418,80 491,80 491,106 483,114 410,114 410,88" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="450.5" y="103" font-size="16" text-anchor="middle" fill="#B79BFF">Astro</text><polygon points="509,80 648,80 648,106 640,114 501,114 501,88" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="574.5" y="103" font-size="16" text-anchor="middle" fill="#B79BFF">Tailwind CSS</text><polygon points="666,80 758,80 758,106 750,114 658,114 658,88" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="708" y="103" font-size="16" text-anchor="middle" fill="#B79BFF">Node.js</text><text class="m" x="28" y="153" font-size="14" fill="#B79BFF" letter-spacing="2">DESKTOP / SYS</text><polygon points="198,130 271,130 271,156 263,164 190,164 190,138" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="230.5" y="153" font-size="16" text-anchor="middle" fill="#B79BFF">Tauri</text><polygon points="289,130 353,130 353,156 345,164 281,164 281,138" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="317" y="153" font-size="16" text-anchor="middle" fill="#B79BFF">egui</text><polygon points="371,130 453,130 453,156 445,164 363,164 363,138" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="408" y="153" font-size="16" text-anchor="middle" fill="#B79BFF">Docker</text><polygon points="471,130 544,130 544,156 536,164 463,164 463,138" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="503.5" y="153" font-size="16" text-anchor="middle" fill="#B79BFF">nginx</text><polygon points="562,130 635,130 635,156 627,164 554,164 554,138" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="594.5" y="153" font-size="16" text-anchor="middle" fill="#B79BFF">Linux</text><text class="m" x="28" y="203" font-size="14" fill="#B79BFF" letter-spacing="2">DATA</text><polygon points="198,180 318,180 318,206 310,214 190,214 190,188" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="254" y="203" font-size="16" text-anchor="middle" fill="#B79BFF">PostgreSQL</text><polygon points="336,180 418,180 418,206 410,214 328,214 328,188" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="373" y="203" font-size="16" text-anchor="middle" fill="#B79BFF">SQLite</text><text class="m" x="28" y="253" font-size="14" fill="#B79BFF" letter-spacing="2">IA</text><polygon points="198,230 327,230 327,256 319,264 190,264 190,238" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="258.5" y="253" font-size="16" text-anchor="middle" fill="#B79BFF">Claude Code</text><polygon points="345,230 399,230 399,256 391,264 337,264 337,238" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="368" y="253" font-size="16" text-anchor="middle" fill="#B79BFF">MCP</text><polygon points="417,230 499,230 499,256 491,264 409,264 409,238" fill="#170C33" stroke="#6B5A9E" stroke-opacity="0.7"/>
+<text class="b" x="454" y="253" font-size="16" text-anchor="middle" fill="#B79BFF">Agents</text>
 <rect class="scan" x="0" y="-40" width="900" height="40" fill="url(#sc)"/></g>
-<polygon points="20.5,0.5 899.5,0.5 899.5,265.5 879.5,285.5 0.5,285.5 0.5,20.5" fill="none" stroke="#FF1F3D" stroke-opacity="0.5"/>
-<path d="M170 22 V268" stroke="#FF1F3D" stroke-opacity="0.35" stroke-dasharray="2 4"/>
+<polygon points="20.5,0.5 899.5,0.5 899.5,265.5 879.5,285.5 0.5,285.5 0.5,20.5" fill="none" stroke="#FF0F47" stroke-opacity="0.5"/>
+<path d="M170 22 V268" stroke="#FF0F47" stroke-opacity="0.35" stroke-dasharray="2 4"/>
 
 </svg>

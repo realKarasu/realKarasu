@@ -6,8 +6,8 @@
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}.run{animation:r 6s linear infinite}@keyframes r{to{transform:translateX(810px)}}
 .fl{animation:f 5s steps(1) infinite}@keyframes f{0%,90%,100%{opacity:1}92%{opacity:.2}94%{opacity:1}95%{opacity:.4}}</style>
 
-<path d="M0 20 H900" stroke="#FF1F3D" stroke-opacity="0.5"/>
-<rect class="run" x="0" y="19" width="90" height="2" fill="#4DF5E8"/>
-<text class="m" x="450" y="50" font-size="14" text-anchor="middle" letter-spacing="4"><tspan fill="#8A4A55">// </tspan><tspan fill="#FF8FA3" class="fl">FIN DE TRANSMISSION</tspan><tspan fill="#8A4A55"> · 0x4B415241 · </tspan><tspan fill="#FF1F3D">EOF</tspan></text>
+<path d="M0 20 H900" stroke="#FF0F47" stroke-opacity="0.5"/>
+<rect class="run" x="0" y="19" width="90" height="2" fill="#10F884"/>
+<text class="m" x="450" y="50" font-size="14" text-anchor="middle" letter-spacing="4"><tspan fill="#6B5A9E">// </tspan><tspan fill="#B79BFF" class="fl">FIN DE TRANSMISSION</tspan><tspan fill="#6B5A9E"> · 0x4B415241 · </tspan><tspan fill="#FF0F47">EOF</tspan></text>
 
 </svg>
