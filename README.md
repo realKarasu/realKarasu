@@ -11,15 +11,15 @@
 <img src="assets/section-projets.svg?v=5" alt="Projets" width="100%" />
 
 <p align="center">
-  <a href="https://ganyu.fr"><img src="assets/project-ganyu.png?v=5" alt="ganyu.fr — Bot Discord français tout-en-un" width="100%" /></a>
+  <a href="https://ganyu.fr"><img src="assets/project-ganyu.png?v=6" alt="ganyu.fr — Bot Discord français tout-en-un" width="100%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://karamon.fr"><img src="assets/project-karamon.png?v=5" alt="karamon.fr — Serveur Minecraft Cobblemon francophone" width="100%" /></a>
+  <a href="https://karamon.fr"><img src="assets/project-karamon.png?v=6" alt="karamon.fr — Serveur Minecraft Cobblemon francophone" width="100%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://vskstudio.fr"><img src="assets/project-vsk.png?v=5" alt="vskstudio.fr — Studio de développement web sur-mesure" width="100%" /></a>
+  <a href="https://vskstudio.fr"><img src="assets/project-vsk.png?v=6" alt="vskstudio.fr — Studio de développement web sur-mesure" width="100%" /></a>
 </p>
 
 <img src="assets/section-opensource.svg?v=5" alt="Open source" width="100%" />
